@@ -1,9 +1,23 @@
 # Swiggy-DataAnalysis-Using-PowerBI
 
 ## Project Objective
-Analyze restaurant performance based on ratings, pricing, and cuisine offerings.
+The Swiggy Restaurant Analysis Dashboard aims to analyze restaurant performance, customer preferences, pricing trends, and menu offerings using Power BI. The dashboard provides insights into top-rated restaurants, popular cuisines, cost patterns, and vegetarian versus non-vegetarian food distribution. SQL queries are used to validate the results generated in Power BI, ensuring accuracy and reliability of the analysis. This project helps businesses make data-driven decisions and improve customer satisfaction..
 
 ## Dataset Used
 
 - <a href="https://docs.google.com/spreadsheets/d/1RaFY7R2N60-sIKopgx8-2c0UOGOLW0E8gal64mNrRsQ/edit?gid=2014690925#gid=2014690925">Swiggy Data</a>
+
+## Dataset Overview
+Rows: 50,046
+Columns: 14
+Missing Values: None (all columns are complete)
+
+## Quick Insights
+Total Restaurants: 274
+Cities Covered: 2
+Unique Cuisines: 167
+Unique Menu Categories: 1,693
+Average Rating: 4.11
+Highest Rating: 4.7
+Lowest Rating: 2.6
 
