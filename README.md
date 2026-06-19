@@ -17,10 +17,16 @@ Missing Values: None (all columns are complete)
 
 ## Quick Insights
 Total Restaurants: 274
+
 Cities Covered: 2
+
 Unique Cuisines: 167
+
 Unique Menu Categories: 1,693
+
 Average Rating: 4.11
+
 Highest Rating: 4.7
+
 Lowest Rating: 2.6
 
