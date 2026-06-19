@@ -15,7 +15,7 @@ Columns: 14
 Missing Values: None (all columns are complete)
 
 ## Dashboard Created
--<a href="https://github.com/sanikadeshmukh04/Swiggy-DataAnalysis-Using-PowerBI/blob/main/Dashboard.pdf"> PowerBI Dashboard >/a>
+-<a href="https://github.com/sanikadeshmukh04/Swiggy-DataAnalysis-Using-PowerBI/blob/main/Dashboard.pdf"> PowerBI Dashboard </a>
 
 ## Quick Insights
 Total Restaurants: 274
