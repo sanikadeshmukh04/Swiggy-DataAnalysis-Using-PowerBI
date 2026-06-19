@@ -8,9 +8,9 @@ The Swiggy Restaurant Analysis Dashboard aims to analyze restaurant performance,
 - <a href="https://docs.google.com/spreadsheets/d/1RaFY7R2N60-sIKopgx8-2c0UOGOLW0E8gal64mNrRsQ/edit?gid=2014690925#gid=2014690925">Swiggy Data</a>
 
 ## Dataset Overview
- -Rows: 50,046
- -Columns: 14
- -Missing Values: None (all columns are complete)
+ #Rows: 50,046
+ #Columns: 14
+ #Missing Values: None (all columns are complete)
 
 ## Quick Insights
 Total Restaurants: 274
