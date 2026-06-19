@@ -5,7 +5,7 @@ The Swiggy Restaurant Analysis Dashboard aims to analyze restaurant performance,
 
 ## Dataset Used
 
-- <a herf="https://github.com/sanikadeshmukh04/Swiggy-DataAnalysis-Using-PowerBI/blob/main/SwiggyDataset.xlsx">Swiggy Data</a>
+- <a herf="https://github.com/sanikadeshmukh04/Swiggy-DataAnalysis-Using-PowerBI/blob/main/SwiggyDataset.xlsx"> Swiggy Data </a>
 
 ## Dataset Overview
 
